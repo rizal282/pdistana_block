@@ -1,0 +1,318 @@
+#tombolmenu{
+	border: none;
+	border-radius: 0;
+	background-color: #212529;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 5px;
+	width: 100%;
+	text-align: left;
+}
+
+#aligntambahkary{
+	margin: 0 0 20px 0;
+}
+
+#aligntambahkary form{
+	margin-right: 10px;
+}
+
+#rekening_koran{
+	margin: 20px 0 0 0;
+}
+
+#aligntambahbahanbaku{
+	text-align: right;
+	margin: 0 0 20px 0;
+}
+
+#previewrekkoran{
+	margin: 20px 0 0 0;
+}
+
+#btn_faktur{
+	margin: 0 0 10px 0;
+}
+
+#tambah_barang{
+	width: 15%;
+	margin: 0 0 10px 0;
+}
+
+#tambah_barangbahanbaku{
+	margin: 0 0 20px 0;
+	width: 80px;
+}
+
+#simpan_barang{
+	width: 15%;
+	margin: 0 0 10px 0;
+}
+
+#gaji_karyawan{
+	margin: 20px 0 0 0;
+}
+
+#panel_bayar{
+	position: absolute;
+	top: 50%;
+	width: 80%;
+	left: 30%;
+	text-align: center;
+}
+
+#text_bayar_tunai{
+	text-align: center;
+}
+
+#text_bayar_tempo{
+	text-align: center;
+}
+
+#bayar_tunai{
+	margin: 0 0 10px 0;
+}
+
+#bayar_tempo{
+	margin: 0 0 10px 0;
+}
+
+#form_pemasukan{
+	margin: 15px 0 15px 0;
+}
+
+#form_pengeluaran{
+	margin: 15px 0 15px 0;
+}
+
+#line_setting{
+	margin: 0 0 20px 0;
+}
+
+#setting_limitgaji input {
+	font-weight: bold;
+}
+
+#tagline_level{
+	margin: 20px 0 0 0;
+}
+
+#table_wilayah{
+	margin: 20px 0 0 0;
+}
+
+#btn-histori{
+	margin: 0 0 20px 0;
+}
+
+#filter_tgl{
+	margin: 0 0 20px 0;
+}
+
+#btn_suratjalanfeedback{
+	margin-bottom: 20px;
+}
+
+#set_passadmin{
+	margin: 0 0 20px 0;
+}
+
+#filtersuratjalan{
+	margin: 0 0 20px 0;
+}
+
+#filtersuratjalan div>input{
+	margin-left: 5px;
+}
+
+#sortingtglpembeli{
+	margin: 0 0 20px 0;
+}
+
+#sortingtglpembeli div{
+	margin: 0 5px 0 0;
+}
+
+#sortingpembayarlunas{
+	margin: 0 0 20px 0;
+}
+
+#sortingpembayarlunas div{
+	margin: 0 5px 0 0;
+}
+
+#sortingpembayartempo {
+	margin: 0 0 20px 0;
+}
+
+#sortingpembayartempo div {
+	margin: 0 5px 0 0;
+}
+
+#sortingdatapengeluaran {
+	margin: 0 0 20px 0;
+}
+
+#sortingdatapengeluaran div {
+	margin: 0 5px 0 0;
+}
+
+#sortingorderbblunas {
+	margin: 0 0 20px 0;
+}
+
+#sortingorderbblunas div {
+	margin: 0 5px 0 0;
+}
+
+#sortingpengeluaranharian div {
+	margin: 0 5px 0 0;
+}
+
+#sortingpengeluaranlain div {
+	margin: 0 5px 0 0;
+}
+
+#sortingrekkoran {
+	margin: 0 0 20px 0;
+}
+
+#sortingrekkoran div {
+	margin: 0 5px 0 0;
+}
+
+#keterangan_kirim {
+	margin: 20px 0 0 0;
+}
+
+#formfilterterjual{
+	margin: 0 0 20px 0;
+}
+
+#formfilterterjual div > input{
+	margin: 0 5px 0 0;
+}
+
+#jnsbrg {
+	margin: 0 0 10px 0;
+}
+
+
+
+div > .form-group > input[name="tgl_awal"] {
+	margin-right: 5px;
+}
+
+div > .form-group > input[name="tgl_akhir"] {
+	margin-right: 5px;
+}
+
+.notifdiskon{
+	color: #FF0000;
+}
+
+.home{
+	position: absolute;
+	width: 80%;
+	top: 30%;
+	text-align: center;
+	color: blue;
+}
+
+.tagline{
+	margin: 30px 0 0 0;
+}
+
+.tagline h4{
+	color: #666;
+}
+
+.modal-dialog{
+	max-width: 80%!important;
+}
+
+.tombol_order{
+	text-align: right;
+}
+
+.alignkasbon{
+	text-align: right;
+	margin: 0 0 20px 0;
+}
+
+.alignupdatestock{
+	text-align: right;
+	margin: 0 0 20px 0;
+}
+
+.alignupdatestock form{
+	margin-right: 10px;
+}
+
+.aligntmbkerjasupir{
+	text-align: right;
+	margin: 0 0 20px 0;
+}
+
+.aligninv{
+	text-align: right;
+	margin: 0 0 20px 0;
+}
+
+.alignpengeluaran{
+	text-align: center;
+	margin: 0 10px 20px 0;
+}
+
+.alignpengeluaran form{
+	text-align: center;
+	margin-right: 10px;
+}
+
+.alignpengeluaranharian{
+	text-align: right;
+	margin: 0 0 20px 0;
+}
+
+.alignpengeluaranlain{
+	text-align: right;
+	margin: 0 0 20px 0;
+}
+
+.paddingcardhistori{
+	margin: 0 0 20px 0;
+}
+
+.aligndatapembeli{
+	text-align: center;
+}
+
+.aligndatapembeli img{
+	margin: 30px 0 0 0;
+}
+
+.aligndatapembeli h2{
+	margin: 30px 0 20px 0;
+}
+
+.btnpembelitunai{
+	text-align: center;
+}
+
+.alignpembelitempo{
+	text-align: center;
+}
+
+.title_penggajian{
+	margin-top: 10%;
+	text-align: center;
+}
+
+.editor{
+	display: none;
+}
+
+
+
+.editbelibhnbaku{
+	display: none;
+}
